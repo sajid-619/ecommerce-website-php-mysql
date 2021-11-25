@@ -8,7 +8,7 @@
         <div class="owl-carousel owl-theme">
             <div class="item py-2 bg-light">
             <div class="product font-rale">
-                <a href="#"><img src="../assets/products/1.png" alt="product1" class="img-fluid"></a>
+                <a href="#"><img src="./assets/products/1.png" alt="product1" class="img-fluid"></a>
                 <div class="text-center">
                 <h6>Samsung Galaxy 10</h6>
                 <div class="rating text-warning font-size-12">
@@ -27,7 +27,7 @@
             </div>
             <div class="item py-2 bg-light">
             <div class="product font-rale">
-                <a href="#"><img src="../assets/products/2.png" alt="product1" class="img-fluid"></a>
+                <a href="#"><img src="./assets/products/2.png" alt="product1" class="img-fluid"></a>
                 <div class="text-center">
                 <h6>Readme Note 7</h6>
                 <div class="rating text-warning font-size-12">
@@ -46,7 +46,7 @@
             </div>
             <div class="item py-2 bg-light">
             <div class="product font-rale">
-                <a href="#"><img src="../assets/products/3.png" alt="product1" class="img-fluid"></a>
+                <a href="#"><img src="./assets/products/3.png" alt="product1" class="img-fluid"></a>
                 <div class="text-center">
                 <h6>Readme Note 7</h6>
                 <div class="rating text-warning font-size-12">
@@ -65,7 +65,7 @@
             </div>
             <div class="item py-2 bg-light">
             <div class="product font-rale">
-                <a href="#"><img src="../assets/products/6.png" alt="product1" class="img-fluid"></a>
+                <a href="#"><img src="./assets/products/6.png" alt="product1" class="img-fluid"></a>
                 <div class="text-center">
                 <h6>Samsung Galaxy 10</h6>
                 <div class="rating text-warning font-size-12">
@@ -84,7 +84,7 @@
             </div>
             <div class="item py-2 bg-light">
             <div class="product font-rale">
-                <a href="#"><img src="../assets/products/1.png" alt="product1" class="img-fluid"></a>
+                <a href="#"><img src="./assets/products/1.png" alt="product1" class="img-fluid"></a>
                 <div class="text-center">
                 <h6>Readme Note 7</h6>
                 <div class="rating text-warning font-size-12">
@@ -104,7 +104,7 @@
             <div class="item py-2 bg-light">
             <div class="product font-rale">
                 <div class="d-flex flex-column">
-                <a href="#"><img src="../assets/products/1.png" class="img-fluid" alt="pro1"></a>
+                <a href="#"><img src="./assets/products/1.png" class="img-fluid" alt="pro1"></a>
                 <div class="text-center">
                     <h6>Readme Note 7</h6>
                     <div class="rating text-warning font-size-12">
@@ -125,7 +125,7 @@
             <div class="item py-2 bg-light">
             <div class="product font-rale">
                 <div class="d-flex flex-column">
-                <a href="#"><img src="../assets/products/2.png" class="img-fluid" alt="pro1"></a>
+                <a href="#"><img src="./assets/products/2.png" class="img-fluid" alt="pro1"></a>
                 <div class="text-center">
                     <h6>Readme Note 7</h6>
                     <div class="rating text-warning font-size-12">
